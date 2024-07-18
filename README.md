@@ -1,14 +1,22 @@
 # linkshorter 
-<h3>Installation</h3> 
-</br>
-git clone github.com/ronibd67/linkshorter.git 
-</br>
-pip install pyshorteners 
-</br>
-cd linkshorter 
-</br>
-ls 
-</br>
-<h3>Run</h3>
-python shortlink.py 
+<h3>Installation</h3>
 
+* `apt update`
+  
+* `apt install git python python2 -y`
+  
+* `pip install pyshorteners`
+  
+* `git clone github.com/ronibd67/linkshorter.git`
+  
+* `cd linkshorter`
+
+#### > Run : `python linkshort.py`
+
+#### USERNAME : `roni`
+#### PASSWORD : `1234`
+
+## Single Command :
+```
+apt update ; apt install git python python2 -y ; pip install pyshorteners ; git clone github.com/ronibd67/linkshorter.git ; cd linkshorter ; python linkshort.py
+```
