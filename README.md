@@ -3,6 +3,8 @@
 
 * `apt update`
   
+* `apt upgrade`
+  
 * `apt install git python python2 -y`
   
 * `pip install pyshorteners`
